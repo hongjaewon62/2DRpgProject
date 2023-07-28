@@ -1,0 +1,16 @@
+{
+  "NpcDialogueData": [
+    {
+      "ID": 1000,
+      "dialogueData": "반갑습니다."
+    },
+    {
+      "ID": 1001,
+      "dialogueData": "저는 이 마을의 이장입니다."
+    },
+    {
+      "ID": 1002,
+      "dialogueData": "이 마을을 지켜주십시오."
+    }
+  ]
+}
