@@ -1,8 +1,8 @@
 # 2DRpgProject
 <hr>
 <h2 id="Play">게임 영상</h2>
-<a href="https://youtu.be/iEw1YNLyyZs?si=DCa145viqW4NnSSH">
-    <img src="https://github.com/hongjaewon62/RPG.png" width="100%" height="100%"/>
+<a href="https://youtu.be/q4SBe5AIhjY?si=0yl6KT6cd9Qr8LmM">
+    <img src="https://github.com/hongjaewon62/2DRpgProject/blob/main/RPG.png" width="100%" height="100%"/>
 </a>
 이미지를 클릭하면 영상이 재생됩니다.
 <hr>
