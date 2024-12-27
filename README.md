@@ -29,4 +29,8 @@
         <h3>Target Platform</h3>
         <img src="https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows&logoColor=white"/>
     </li>
+    <li>
+        <h3>P.S.</h3>
+        <p>유료 에셋을 제거한 버전입니다</p>
+    </li>
 </ul>
